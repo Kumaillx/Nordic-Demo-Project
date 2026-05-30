@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.stickyScroll.enabled": false,
+    "nrf-connect.applications": [
+        "${workspaceFolder}\\nrf_ota_demo"
+    ]
+}
